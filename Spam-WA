@@ -1,0 +1,71 @@
+# spam-WA
+Sepam watsaap
+$ pkg update && pkg upgrade
+Setelah mengupdate dan mengupgrade termux ketikan perintah berikut :
+$ pkg install python2 (y/n pilih y)
+$ pkg install php (y/n pilih y)
+$ pkg install git (y/n pilih y)
+Setalah mengikuti perintah di atas waktu-nya kita clonning tool-nya :
+$ git clone https://github.com/siputra12/prank.git
+Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini :
+$ cd prank
+$ ls
+$ php wa.php
+Kemudian masukan Nomor WhatsApp yang kalian ingin spam contoh : 085710917169 kemudian enter pada pilihan y/n pilih y
+.. .welcome back to me catatan:)....  #@vms
+         " jngan lupa subcribe pak *VEMAS DARK* -_-...  (:"
+"phising game"
+(mobile legends dan clash of clan)
+$apt update
+$apt upgrade -y
+$pkg install python2 -y
+$pkg install apache2
+$pkg install php -y
+$pkg install git
+$git clone https://github.com/Senitopeng/PhisingGame
+$ls
+$cd PhisingGame
+$python2 phising.py
+*Gunain dengan bijak cuk -_-*
+Cara Install OSIF ( Open Source Information Facebook )
+$ pkg install python2
+$ git clone https://github.com/ciku370/OSIF
+$ cd OSIF
+$ pip2 install -r requirements.txt
+Dan cara menjalankannya menggunakan perintah :
+python2 osif.py
+   by: *Vdk*
+*~CARA SADAP WA~*
+*_SeNaNg-SeNaNg H4CK1NG MR.STAH_*
+$pkg update && pkg upgrade
+$pkg install git
+$pkg install curl
+$git clone https://github.com/AndriGanz/whatshack
+$cd whatshack
+$ls
+$sh whatshack.sh
+*~Jangan salah gunakan~*
+Tutorial termux
+Silahkan perdalami...
+D-tect tool
+Cara Install D-tect tool di android termux (command ) :
+$ apt install git
+$ apt install python2
+$ git clone https://github.com/shawarkhanethicalhacker/D-TECT
+$ ls
+$ cd D-TECH
+$ chmod +x d-tect.py
+$ python2 d-tect.py
+2. cara uninstall tool termux
+rm -rf toolsnya
+3. cara buat virus
+cd /sdcard
+cd vbug
+ls
+chmod vbug.py
+chmod -v vbug.py
+python2 vbug.py
+4. irssi
+  /connet irc.freenode.net
+/nick w3wandroid
+/join #modol
